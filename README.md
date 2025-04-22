@@ -1,4 +1,4 @@
-# 📧 **Email Marketing Campaign Optimization: Data Science Analysis**
+# 📧 **Email Marketing Campaign Optimization: Data Science & Analysis**
 
 Welcome to the project focused on analyzing and optimizing email marketing campaigns to improve user engagement. This analysis delves into the relationship between various user and campaign features and their impact on email open and click-through rates (CTR). By leveraging decision trees, conditional probabilities, and visualization techniques, we aim to help marketers enhance their strategies and boost campaign success.
 

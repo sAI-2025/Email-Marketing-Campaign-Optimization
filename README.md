@@ -1,8 +1,3 @@
-# Email-Marketing-Campaign-Optimization
-Here's a **GitHub README** template that would impress recruiters with your clear and concise explanation, as well as your ability to present data-driven insights:
-
----
-
 # 📧 **Email Marketing Campaign Optimization: Data Science Analysis**
 
 Welcome to the project focused on analyzing and optimizing email marketing campaigns to improve user engagement. This analysis delves into the relationship between various user and campaign features and their impact on email open and click-through rates (CTR). By leveraging decision trees, conditional probabilities, and visualization techniques, we aim to help marketers enhance their strategies and boost campaign success.
@@ -102,7 +97,7 @@ Optimizing email strategies improves **customer lifetime value (CLV)**, **ROI**,
 
 ### 🔄 **How to Run**
 
-1. Clone the repository: `git clone https://github.com/yourusername/email-marketing-analysis.git`
+1. Clone the repository: `git clone https://github.com/sAI-2025/Email-Marketing-Campaign-Optimization.git`
 2. Install required libraries: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook email_analysis.ipynb`
 
@@ -112,6 +107,4 @@ Optimizing email strategies improves **customer lifetime value (CLV)**, **ROI**,
 
 This analysis showcases how understanding user behavior and applying data-driven techniques can significantly improve the performance of email marketing campaigns. By optimizing factors like timing, personalization, and targeting high-purchase users, marketers can achieve better results and increase engagement.
 
----
 
-By presenting the analysis clearly and with actionable insights, this README will help you stand out to recruiters. The concise structure highlights the impact of your work and the tools you’ve used, making it a compelling read for those interested in your skills and achievements.
